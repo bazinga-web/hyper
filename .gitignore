@@ -1,0 +1,16 @@
+.hyper_plugins
+Cache
+Cookies
+Cookies-journal
+GPUCache
+IndexedDB
+Local Storage
+Network Persistent State
+Preferences
+QuotaManager
+QuotaManager-journal
+blob_storage
+config.json
+databases
+logs
+webrtc_event_logs
